@@ -221,7 +221,7 @@ make install
 ## SSD Caffe
 SSD Caffe是用来进行目标探测的caffe版本
 1. 到 C:\NavinfoSign\03详细设计和代码\01 源代码\项目预研\SSDsigndetect 下载evovision-ssd.tar.gz 到用户home路径下解压
-2. 如果是为学习联系SSD使用，请下载SSD的标准版本
+2. 如果是为学习练习SSD使用，请下载SSD的标准版本
 ```
 git clone https://github.com/weiliu89/caffe.git
 ```
